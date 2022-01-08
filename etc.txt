@@ -1,5 +1,7 @@
 thank you
 
+test 2
+
 $ git rm -rf --cached foldername
 
 $ git remote remove heroku	// to remove remotes
